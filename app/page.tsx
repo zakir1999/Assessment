@@ -7,7 +7,7 @@ import Fotter from './components/Fotter';
 
 export default function Page() {
   return (
-    <main className="space-y-20"> 
+    <main className="min-h-screen"> 
       <HomePage />
       <Skillpage/>
       <DevlopmentDetails></DevlopmentDetails>
